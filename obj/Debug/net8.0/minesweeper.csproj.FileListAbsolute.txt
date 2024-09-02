@@ -1,0 +1,14 @@
+/home/spogirf/minesweeper/obj/Debug/net8.0/minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+/home/spogirf/minesweeper/obj/Debug/net8.0/minesweeper.AssemblyInfoInputs.cache
+/home/spogirf/minesweeper/obj/Debug/net8.0/minesweeper.AssemblyInfo.cs
+/home/spogirf/minesweeper/obj/Debug/net8.0/minesweeper.csproj.CoreCompileInputs.cache
+/home/spogirf/minesweeper/bin/Debug/net8.0/minesweeper
+/home/spogirf/minesweeper/bin/Debug/net8.0/minesweeper.deps.json
+/home/spogirf/minesweeper/bin/Debug/net8.0/minesweeper.runtimeconfig.json
+/home/spogirf/minesweeper/bin/Debug/net8.0/minesweeper.dll
+/home/spogirf/minesweeper/bin/Debug/net8.0/minesweeper.pdb
+/home/spogirf/minesweeper/obj/Debug/net8.0/minesweeper.dll
+/home/spogirf/minesweeper/obj/Debug/net8.0/refint/minesweeper.dll
+/home/spogirf/minesweeper/obj/Debug/net8.0/minesweeper.pdb
+/home/spogirf/minesweeper/obj/Debug/net8.0/minesweeper.genruntimeconfig.cache
+/home/spogirf/minesweeper/obj/Debug/net8.0/ref/minesweeper.dll

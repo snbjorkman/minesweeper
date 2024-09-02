@@ -1,0 +1,18 @@
+-MINESWEEPER via text/command line
+
+reqs/specs:
+-board size and difficulty are given as arguments when running program
+-board prints out, all spaces are labelled with axes
+-covered spaces are marked by white square
+-user enters "mark" or "mine", followed by a coordinate
+-if mined, theres 3 possibilities:
+    -1. there is a bomb underneath; print out entirely uncovered board, end game, announce loss.
+    -2. there is a bomb adjacent to that space; change that space to # of bombs adjacent to it
+    -3. there is no bomb adjacent to that space; uncover all contiguous spaces with no bomb
+-if all spaces without a bomb are mined, end game, announce victory.
+
+
+finished original code with 2 mins to spare!
+now to test
+
+oke full game took 2 hours 1 last night and 1 this morning.
